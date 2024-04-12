@@ -3,6 +3,10 @@
 - Docker & Docker Compose
 
 # Arquitetura
+- ![image](https://github.com/gfmaurila/poc.cqrs.api.gateway.net8/assets/5544035/48e61840-0b12-4595-abac-d5861a7fe3d5)
+- ![image](https://github.com/gfmaurila/poc.cqrs.api.gateway.net8/assets/5544035/421fcf7e-d6fa-4755-afa2-1f5900d7fb92)
+
+
 
 
 ## poc.cqrs.api.gateway.net8
